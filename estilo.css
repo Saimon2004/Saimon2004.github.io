@@ -19,7 +19,7 @@ header
     padding-top: 3px;
     padding-left: 10%;
     padding-right: 10%;
-    min-width: 400px;
+    min-width: 600px;
 }
     
 .logo-img
@@ -82,7 +82,7 @@ header ul li a:hover
 /* Main */
 main
 {
-    min-width: 400px;
+    min-width: 600px;
     padding-left: 200px;
     margin-top: 0px;
     background-image:linear-gradient(to right,rgb(0 0 0/.75),rgb(0 0 0 /.75)), url('img/best-ak-47-skins.jpg');
@@ -154,7 +154,7 @@ main
 /* Section */
 section
 {
-    min-width: 400px;
+    min-width: 600px;
     height: 70%;
     background-image: url('img/portada.png');
     background-position: center;
@@ -178,7 +178,7 @@ section .bi
 /*Footer*/
 #Footer
 {
-    min-width: 400px;
+    min-width: 600px;
 }
 
 .footer a
@@ -228,7 +228,7 @@ i:hover
     background: fixed;
     background-image: linear-gradient(to right,rgb(0 0 0/.5),rgb(0 0 0 /.5)),url(img/Fondo-tienda.jpg);
     padding: 50px;
-    min-width: 400px;
+    min-width: 600px;
 }
 
 
